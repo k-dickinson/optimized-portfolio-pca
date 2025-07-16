@@ -136,7 +136,8 @@ We generate the following visual components:
 - Factor Returns Over Time: Line plots for the first few PCs.
 - Interpretation Text Box: Explains factor economic meanings.
 - Factor-ETF Correlation Heatmap: Visualizes factor-sector relationships.
-
+  
+![My Output](https://github.com/k-dickinson/OptimizedPortfolioPCA/blob/main/PCA_Output.png)
 **Full code [here](https://github.com/k-dickinson/OptimizedPortfolioPCA/blob/main/pca.py)**
 
 ## Interpretation and Limitations
