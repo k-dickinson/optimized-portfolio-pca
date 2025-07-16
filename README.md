@@ -156,7 +156,7 @@ This PCA and correlation analysis assumes linear relationships between returns a
 
 1. Clone this repository.
 2. Install required packages.
-3. Change your portfolio/metric you're optimizing
+3. Change your portfolio/metric you're optimizing from the full code
 4. Run the script.
 5. Analyze visual outputs and interpretation text.
 
