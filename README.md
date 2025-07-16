@@ -80,11 +80,8 @@ Portfolio optimization aims to select the best combination of asset weights to m
 
 Using PyPortfolioOpt, we calculate expected returns and covariance matrix from historical adjusted close prices, then find the minimum volatility portfolio weights.
 
-<summary><b>Full portfolio optimization code here</b></summary>
+**Full portfolio optimization code [here](put the link here)**
 
-```python
-# Your full portfolio optimization code goes here.
-```
 
 ## Principal Component Analysis (PCA)
 
@@ -140,11 +137,7 @@ We generate the following visual components:
 - Interpretation Text Box: Explains factor economic meanings.
 - Factor-ETF Correlation Heatmap: Visualizes factor-sector relationships.
 
-<summary><b>Full code here</b></summary>
-
-```python
-# Your full visualization code goes here.
-```
+Full code [here](put the link here)
 
 ## Interpretation and Limitations
 
@@ -171,7 +164,7 @@ This PCA and correlation analysis assumes linear relationships between returns a
 
 ## References
 
-- PyPortfolioOpt documentation  
-- scikit-learn PCA  
-- Yahoo Finance  
-- Seaborn heatmap  
+- [PyPortfolioOpt documentation](https://pyportfolioopt.readthedocs.io/en/latest/)
+- [scikit-learn PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+- [Yahoo Finance (yfinance)](https://pypi.org/project/yfinance/)
+- [Seaborn heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
